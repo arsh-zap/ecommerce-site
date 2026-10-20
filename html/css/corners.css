@@ -1,0 +1,23 @@
+.corner {
+            position: fixed;                                    /* */
+            display: inline-flex;
+            justify-content: center;                        /* */
+            align-items: flex-start; 
+            gap: 20px;    
+            top: 10px;
+            right: 15px;        
+            background-color: lightblue;
+            padding: 10px;
+            border-radius: 20px;
+            color: black;
+            
+        }
+.rightcorner {
+            position: fixed;
+            top: 10px;
+            left: 15px;
+            background-color: lightblue;
+            padding: 10px;
+            border-radius: 20px;
+            color: black;
+}
